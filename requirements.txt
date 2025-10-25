@@ -1,0 +1,15 @@
+# SimTemp Monitor Requirements
+# Python 3.10+ required
+
+# No external dependencies required!
+# This application uses only Python standard library modules:
+# - tkinter (GUI framework)
+# - datetime (timestamps)
+# - collections (deque for efficient data storage)
+# - math (mathematical operations)
+# - random (random number generation)
+
+# Note: tkinter comes pre-installed with Python on most systems
+# On Ubuntu/Debian, install with: sudo apt-get install python3-tk
+# On macOS, tkinter is included with Python from python.org
+# On Windows, tkinter is included with Python installation
