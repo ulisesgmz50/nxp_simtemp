@@ -1,0 +1,4 @@
+# NXP SimTemp CLI Requirements
+
+# Command-line interface framework
+click>=8.0.0
