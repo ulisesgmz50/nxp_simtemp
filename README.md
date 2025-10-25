@@ -292,5 +292,9 @@ GPL-2.0 - See kernel module source for details.
 - Claude AI for development assistance (see AI_NOTES.md)
 
 ---
+## VIDEO DEMO
+
+https://github.com/user-attachments/assets/1e8d5853-5298-4eb7-b675-f8622de7ac64
+
 
 **Last Updated:** 2025-10-24
