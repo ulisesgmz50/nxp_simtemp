@@ -1,0 +1,11 @@
+# NXP SimTemp GUI Requirements
+#
+# Tkinter comes with Python standard library, no installation needed
+# Additional dependencies for enhanced GUI (if needed in future)
+
+# For Python 3.8+
+# No external dependencies required for basic Tkinter GUI
+
+# Optional (if you want to enhance the GUI later):
+# matplotlib>=3.5.0  # For advanced plotting
+# numpy>=1.21.0      # For data processing
