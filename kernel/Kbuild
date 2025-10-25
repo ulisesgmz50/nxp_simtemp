@@ -1,0 +1,8 @@
+# SPDX-License-Identifier: GPL-2.0
+# Kbuild file for nxp_simtemp module
+
+# Single source file module
+obj-m += nxp_simtemp.o
+
+# If we split into multiple files later, use:
+# nxp_simtemp-objs := nxp_simtemp_main.o nxp_simtemp_sysfs.o
